@@ -1,0 +1,5 @@
+#datasets
+BraTS2020_training_data/
+FLAIR/
+
+*.zip
